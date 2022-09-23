@@ -1,0 +1,775 @@
+p1	p1Label	p2	p2Label
+P6718	music video	P10	video
+P27	country of citizenship	P17	country
+P495	country of origin	P17	country
+P1532	country for sport	P17	country
+P41	flag image	P18	image
+P94	coat of arms image	P18	image
+P109	signature	P18	image
+P117	chemical structure	P18	image
+P158	seal image	P18	image
+P181	taxon range map image	P18	image
+P242	locator map image	P18	image
+P948	page banner	P18	image
+P1442	image of grave	P18	image
+P1766	place name sign	P18	image
+P1801	commemorative plaque image	P18	image
+P1846	distribution map	P18	image
+P1943	location map	P18	image
+P2713	sectional view	P18	image
+P2716	collage image	P18	image
+P2910	icon	P18	image
+P3383	film poster	P18	image
+P3451	nighttime view	P18	image
+P5252	winter view	P18	image
+P5555	schematic	P18	image
+P5775	image of interior	P18	image
+P5962	sail emblem	P18	image
+P6500	non-free artwork image URL	P18	image
+P6802	related image	P18	image
+P7457	creator's signature	P18	image
+P8224	molecular model or crystal lattice model	P18	image
+P8517	view	P18	image
+P8592	aerial view	P18	image
+P8667	twin town sign	P18	image
+P8766	rank insignia	P18	image
+P9721	image of entrance	P18	image
+P9906	inscription image	P18	image
+P10093	image with color chart	P18	image
+P10253	reference image	P18	image
+P105	taxon rank	P31	instance of
+P223	galaxy morphological type	P31	instance of
+P289	vessel class	P31	instance of
+P1435	heritage designation	P31	instance of
+P1454	legal form	P31	instance of
+P1574	exemplar of	P31	instance of
+P10241	is an individual of taxon	P31	instance of
+P57	director	P50	author
+P58	screenwriter	P50	author
+P87	librettist	P50	author
+P676	lyrics by	P50	author
+P443	pronunciation audio	P51	audio
+P989	spoken text audio	P51	audio
+P990	audio recording of the subject's spoken voice	P51	audio
+P2012	cuisine	P101	field of work
+P2416	sports discipline competed in	P101	field of work
+P2579	studied by	P101	field of work
+P450	astronaut mission	P121	item operated
+P1072	readable file format	P121	item operated
+P3438	vehicle normally used	P121	item operated
+P3828	wears	P121	item operated
+P749	parent organization	P127	owned by
+P3931	copyright holder	P127	owned by
+P2789	connects with	P129	physically interacts with
+P9275	inverse agonist of	P129	physically interacts with
+P17	country	P131	located in the administrative territorial entity
+P1376	capital of	P131	located in the administrative territorial entity
+P3018	located in protected area	P131	located in the administrative territorial entity
+P149	architectural style	P135	movement
+P5353	school district	P137	operator
+P14	traffic sign	P154	logo image
+P828	has cause	P155	follows
+P1365	replaces	P155	follows
+P3729	next lower rank	P155	follows
+P1366	replaced by	P156	followed by
+P1536	immediate cause of	P156	followed by
+P1542	has effect	P156	followed by
+P3730	next higher rank	P156	followed by
+P1885	cathedral	P159	headquarters location
+P371	presenter	P161	cast member
+P41	flag image	P163	flag
+P50	author	P170	creator
+P86	composer	P170	creator
+P110	illustrator	P170	creator
+P112	founded by	P170	creator
+P178	developer	P170	creator
+P287	designed by	P170	creator
+P467	legislated by	P170	creator
+P4586	type foundry	P170	creator
+P6819	calligrapher	P170	creator
+P7514	landscape architect	P170	creator
+P9260	music transcriber	P170	creator
+P161	cast member	P175	performer
+P193	main building contractor	P176	manufacturer
+P1257	depicts Iconclass notation	P180	depicts
+P4675	appears in the form of	P180	depicts
+P6243	digital representation of	P180	depicts
+P65	site of astronomical discovery	P189	location of discovery
+P4661	reservoir created	P206	located in or next to body of water
+P2511	MSK Gent work PID	P217	inventory number
+P15	route map	P242	locator map image
+P1621	detail map	P242	locator map image
+P19	place of birth	P276	location
+P20	place of death	P276	location
+P115	home venue	P276	location
+P119	place of burial	P276	location
+P131	located in the administrative territorial entity	P276	location
+P206	located in or next to body of water	P276	location
+P551	residence	P276	location
+P669	located on street	P276	location
+P706	located in/on physical feature	P276	location
+P927	anatomical location	P276	location
+P1158	location of landing	P276	location
+P1427	start point	P276	location
+P1444	destination point	P276	location
+P2541	operating area	P276	location
+P2825	via	P276	location
+P2974	habitat	P276	location
+P3842	located in present-day administrative territorial entity	P276	location
+P6885	historical region	P276	location
+P7153	significant place	P276	location
+P8138	located in the statistical territorial entity	P276	location
+P8764	port calls	P276	location
+P171	parent taxon	P279	subclass of
+P1647	subproperty of	P279	subclass of
+P10019	term in higher taxon	P279	subclass of
+P84	architect	P287	designed by
+P722	UIC station code	P296	station code
+P954	IBNR ID	P296	station code
+P1377	MTR station code	P296	station code
+P1378	China railway TMIS station code	P296	station code
+P2815	ESR station code	P296	station code
+P3104	Gares & Connexions ID	P296	station code
+P5696	Indian Railways station code	P296	station code
+P6785	Pakistan Railways station code	P296	station code
+P8181	SNCF Station Identifier	P296	station code
+P8448	Benerail station ID	P296	station code
+P8671	Deutsche Bahn station code	P296	station code
+P4379	youth wing	P355	subsidiary
+P2704	EIDR content ID	P356	DOI
+P16	transport network	P361	part of
+P59	constellation	P361	part of
+P81	connecting line	P361	part of
+P131	located in the administrative territorial entity	P361	part of
+P179	part of the series	P361	part of
+P195	collection	P361	part of
+P196	minor planet group	P361	part of
+P241	military branch	P361	part of
+P452	industry	P361	part of
+P669	located on street	P361	part of
+P703	found in taxon	P361	part of
+P706	located in/on physical feature	P361	part of
+P927	anatomical location	P361	part of
+P929	color space	P361	part of
+P972	catalog	P361	part of
+P1049	worshipped by	P361	part of
+P1080	from narrative universe	P361	part of
+P1344	participant in	P361	part of
+P1416	affiliation	P361	part of
+P1433	published in	P361	part of
+P2505	carries	P361	part of
+P2596	culture	P361	part of
+P2922	month of the year	P361	part of
+P3450	sports season of league or competition	P361	part of
+P3780	active ingredient in	P361	part of
+P3842	located in present-day administrative territorial entity	P361	part of
+P4908	season	P361	part of
+P5353	school district	P361	part of
+P5522	Unicode block	P361	part of
+P6885	historical region	P361	part of
+P404	game mode	P366	has use
+P2159	computes solution to	P366	has use
+P2175	medical condition treated	P366	has use
+P2414	substrate of	P366	has use
+P364	original language of film or TV show	P407	language of work or name
+P1731	Fach	P412	voice type
+P9753	Wikidata language code	P424	Wikimedia language code
+P2152	antiparticle	P461	opposite of
+P4545	sexually homologous with	P461	opposite of
+P5974	antonym	P461	opposite of
+P8865	mathematical inverse	P461	opposite of
+P534	streak color	P462	color
+P1340	eye color	P462	color
+P1884	hair color	P462	color
+P2827	flower color	P462	color
+P53	family	P463	member of
+P54	member of sports team	P463	member of
+P102	member of political party	P463	member of
+P114	airline alliance	P463	member of
+P550	chivalric order	P463	member of
+P611	religious order	P463	member of
+P4100	parliamentary group	P463	member of
+P5096	member of the crew of	P463	member of
+P5832	political coalition	P463	member of
+P7779	member of military unit	P463	member of
+P6	head of government	P488	chairperson
+P35	head of state	P488	chairperson
+P2183	ISO 9:1995	P503	ISO standard
+P3005	valid in place	P518	applies to part
+P150	contains administrative territorial entity	P527	has part
+P516	powered by	P527	has part
+P610	highest point	P527	has part
+P658	tracklist	P527	has part
+P880	CPU	P527	has part
+P1148	neutron number	P527	has part
+P1221	compressor type	P527	has part
+P1383	contains settlement	P527	has part
+P1435	heritage designation	P527	has part
+P2560	GPU	P527	has part
+P2989	has grammatical case	P527	has part
+P3103	has tense	P527	has part
+P3161	has grammatical mood	P527	has part
+P3781	has active ingredient	P527	has part
+P4543	has listed ingredient	P527	has part
+P9793	setlist	P527	has part
+P296	station code	P528	catalog code
+P263	official residence	P551	residence
+P2632	place of detention	P551	residence
+P423	shooting handedness	P552	handedness
+P3579	Sina Weibo user ID	P553	website account on
+P2002	Twitter username	P554	website username
+P2003	Instagram username	P554	website username
+P2013	Facebook ID	P554	website username
+P2037	GitHub username	P554	website username
+P2397	YouTube channel ID	P554	website username
+P2847	Google+ ID	P554	website username
+P2893	Skype username	P554	website username
+P2942	Dailymotion channel ID	P554	website username
+P2984	Snapchat username	P554	website username
+P3040	SoundCloud ID	P554	website username
+P3185	VK ID	P554	website username
+P3207	Vine user ID	P554	website username
+P3258	LiveJournal ID	P554	website username
+P3267	Flickr user ID	P554	website username
+P3789	Telegram username	P554	website username
+P3836	Pinterest username	P554	website username
+P3899	Medium username	P554	website username
+P3943	Tumblr username	P554	website username
+P4003	Facebook page ID	P554	website username
+P4013	Giphy username	P554	website username
+P4015	Vimeo identifier	P554	website username
+P4016	SlideShare username	P554	website username
+P4017	Ustream username	P554	website username
+P4033	Mastodon address	P554	website username
+P4174	Wikimedia username	P554	website username
+P4175	Patreon ID	P554	website username
+P4226	Cyworld ID	P554	website username
+P4264	LinkedIn company ID	P554	website username
+P4265	Reddit username	P554	website username
+P4411	Quora username	P554	website username
+P5434	Gfycat user ID	P554	website username
+P5435	pixiv user ID	P554	website username
+P5797	Twitch channel ID	P554	website username
+P6459	QQ user ID	P554	website username
+P6552	Twitter user numeric ID	P554	website username
+P6837	Keybase username	P554	website username
+P7085	TikTok username	P554	website username
+P7171	Hacker News username	P554	website username
+P7590	eBay username	P554	website username
+P7737	DeviantArt username	P554	website username
+P8754	OpenStreetMap numeric user ID	P554	website username
+P8827	GitLab username	P554	website username
+P8842	PromoDj ID	P554	website username
+P8904	Parler username	P554	website username
+P8919	Gab username	P554	website username
+P8976	Lichess username	P554	website username
+P9101	Discord username	P554	website username
+P9269	Odnoklassniki user numeric ID	P554	website username
+P9271	Kickstarter username	P554	website username
+P9812	Likee username	P554	website username
+P10212	Stack Exchange user ID	P554	website username
+Q110329436	Muse.ai username	P554	website username
+P654	direction relative to location	P560	direction
+P569	date of birth	P571	inception
+P1619	date of official opening	P571	inception
+P9448	introduced on	P571	inception
+P10135	recording date	P571	inception
+P570	date of death	P576	dissolved, abolished or demolished date
+P8556	extinction date	P576	dissolved, abolished or demolished date
+P9667	date of resignation	P576	dissolved, abolished or demolished date
+P1191	date of first performance	P577	publication date
+P523	temporal range start	P580	start time
+P571	inception	P580	start time
+P729	service entry	P580	start time
+P1619	date of official opening	P580	start time
+P1636	date of baptism in early childhood	P580	start time
+P2031	work period (start)	P580	start time
+P7124	date of the first one	P580	start time
+P8555	latest start date	P580	start time
+P524	temporal range end	P582	end time
+P570	date of death	P582	end time
+P576	dissolved, abolished or demolished date	P582	end time
+P730	service retirement	P582	end time
+P746	date of disappearance	P582	end time
+P2032	work period (end)	P582	end time
+P2669	discontinued date	P582	end time
+P3999	date of official closure	P582	end time
+P7125	date of the latest one	P582	end time
+P8554	earliest end date	P582	end time
+P577	publication date	P585	point in time
+P580	start time	P585	point in time
+P582	end time	P585	point in time
+P813	retrieved	P585	point in time
+P4602	date of burial or cremation	P585	point in time
+P6949	announcement date	P585	point in time
+P7588	effective date	P585	point in time
+P7589	enacted date	P585	point in time
+P9946	date of probate	P585	point in time
+P2786	aerodrome reference point	P625	coordinate location
+P5140	coordinates of geographic center	P625	coordinate location
+P9745	translation of	P629	edition or translation of
+P9831	release of	P629	edition or translation of
+P3269	Fotografen.nl ID	P650	RKDartists ID
+P30	continent	P706	located in/on physical feature
+P4614	drainage basin	P706	located in/on physical feature
+P4688	geomorphological unit	P706	located in/on physical feature
+P682	biological process	P710	participant
+P726	candidate	P710	participant
+P767	contributor to the creative work or subject	P710	participant
+P823	speaker	P710	participant
+P967	guest of honor	P710	participant
+P1346	winner	P710	participant
+P1591	defendant	P710	participant
+P1592	prosecutor	P710	participant
+P1593	defender	P710	participant
+P1594	judge	P710	participant
+P1620	plaintiff	P710	participant
+P1923	participating team	P710	participant
+P2321	general classification of race participants	P710	participant
+P2417	stage classification	P710	participant
+P8031	perpetrator	P710	participant
+P8032	victim	P710	participant
+P991	successful candidate	P726	candidate
+P1950	second family name in Spanish name	P734	family name
+P6978	Scandinavian middle family name	P734	family name
+P9139	first family name in Portuguese name	P734	family name
+P9688	author last names	P734	family name
+P9687	author given names	P735	given name
+P348	software version identifier	P747	has edition or translation
+P5353	school district	P749	parent organization
+P175	performer	P767	contributor to the creative work or subject
+P1462	standards body	P790	approved by
+P606	first flight	P793	significant event
+P832	public holiday	P793	significant event
+P1344	participant in	P793	significant event
+P9667	date of resignation	P793	significant event
+P185	doctoral student	P802	student
+P770	cause of destruction	P828	has cause
+P1478	has immediate cause	P828	has cause
+P1479	has contributing factor	P828	has cause
+P10225	official shop URL	P856	official website
+P8001	endorsed by	P859	sponsor
+P8324	funder	P859	sponsor
+P2517	category for recipients of this award	P910	topic's main category
+P2875	property usage tracking category	P910	topic's main category
+P3876	category for alumni of educational institution	P910	topic's main category
+P6112	category for members of a team	P910	topic's main category
+P8464	content partnership category	P910	topic's main category
+P520	armament	P912	has facility
+P878	avionics	P912	has facility
+P1202	carries scientific instrument	P912	has facility
+P1637	undercarriage	P912	has facility
+P1641	port	P912	has facility
+P489	currency symbol description	P913	notation
+P547	commemorates	P921	main subject
+P6291	advertises	P921	main subject
+P6977	review of	P921	main subject
+P242	locator map image	P927	anatomical location
+P2675	reply to	P941	inspired by
+P4765	Commons compatible image available at URL	P953	full work available at URL
+P6500	non-free artwork image URL	P953	full work available at URL
+P1651	YouTube video ID	P963	streaming media URL
+P9869	Douyin video ID	P963	streaming media URL
+P9969	catalogue raisonné	P972	catalog
+P5178	glossary entry at Wikipedia	P973	described at URL
+P5715	Academia.edu profile URL	P973	described at URL
+P10032	Museu da Pessoa History	P996	document file on Wikimedia Commons
+P654	direction relative to location	P1013	criterion used
+P6	head of government	P1037	director / manager
+P169	chief executive officer	P1037	director / manager
+P488	chairperson	P1037	director / manager
+P1075	rector	P1037	director / manager
+P8938	artistic director	P1037	director / manager
+P26	spouse	P1038	relative
+P40	child	P1038	relative
+P1290	godparent	P1038	relative
+P3373	sibling	P1038	relative
+P3448	stepparent	P1038	relative
+P8810	parent (unspecified)	P1038	relative
+P2109	installed capacity	P1056	product or material produced
+P4661	reservoir created	P1056	product or material produced
+P184	doctoral advisor	P1066	student of
+P740	location of formation	P1071	location of creation
+P1539	female population	P1082	population
+P1540	male population	P1082	population
+P2351	number of graves	P1083	maximum capacity
+P2320	aftershocks	P1114	quantity
+P2324	quantity buried	P1114	quantity
+P2351	number of graves	P1114	quantity
+P2664	units sold	P1114	quantity
+P10209	number of triples	P1114	quantity
+P2907	UTC timezone offset	P1181	numeric value
+P2031	work period (start)	P1317	floruit
+P2032	work period (end)	P1317	floruit
+P8554	earliest end date	P1319	earliest date
+P8555	latest start date	P1326	latest date
+P2095	co-driver	P1327	partner in business or sport
+P2900	fax number	P1329	phone number
+P118	league	P1344	participant in
+P450	astronaut mission	P1344	participant in
+P607	conflict	P1344	participant in
+P2522	victory	P1344	participant in
+P3602	candidacy in election	P1344	participant in
+P991	successful candidate	P1346	winner
+P566	basionym	P1365	replaces
+P1398	structure replaces	P1365	replaces
+P1403	original combination	P1365	replaces
+P167	structure replaced by	P1366	replaced by
+P3179	territory overlaps	P1382	partially coincident with
+P103	native language	P1412	languages spoken, written or signed
+P6886	writing language	P1412	languages spoken, written or signed
+P108	employer	P1416	affiliation
+P463	member of	P1416	affiliation
+P3858	route diagram	P1424	topic's main template
+P814	IUCN protected areas category	P1435	heritage designation
+P4584	first appearance	P1441	present in work
+P9382	Unicode character name	P1448	official name
+P358	discography	P1455	list of works
+P1283	filmography	P1455	list of works
+P1456	list of monuments	P1455	list of works
+P1680	subtitle	P1476	title
+P2849	produced by	P1478	has immediate cause
+P137	operator	P1535	used by
+P1056	product or material produced	P1536	immediate cause of
+P680	molecular function	P1542	has effect
+P1536	immediate cause of	P1542	has effect
+P1537	contributing factor of	P1542	has effect
+P393	edition number	P1545	series ordinal
+P670	street number	P1545	series ordinal
+P965	burial plot reference	P1545	series ordinal
+P1618	sport number	P1545	series ordinal
+P1836	draft pick number	P1545	series ordinal
+P5474	section number	P1545	series ordinal
+P5901	official number of town quarter	P1545	series ordinal
+P1372	binding of software library	P1547	depends on software
+P1414	GUI toolkit or framework	P1547	depends on software
+P2377	MediaWiki hooks used	P1547	depends on software
+P1557	manifestation of	P1552	has quality
+P1419	shape	P1557	manifestation of
+P2702	dataset distribution	P1557	manifestation of
+P3701	incarnation of	P1557	manifestation of
+P3966	programming paradigm	P1557	manifestation of
+P4043	emulates	P1557	manifestation of
+P4428	implementation of	P1557	manifestation of
+P7078	typing discipline	P1557	manifestation of
+P8929	religion or world view	P1576	lifestyle
+P3311	plan view image	P1621	detail map
+P2888	exact match	P1628	equivalent property
+P1921	formatter URI for RDF resource	P1630	formatter URL
+P2720	embed URL template	P1630	formatter URL
+P1647	subproperty of	P1659	see also
+P1696	inverse property	P1659	see also
+P4070	identifier shared with	P1706	together with
+P9531	identifier shared with lexeme	P1706	together with
+P2744	PASE name	P1810	named as
+P835	author citation (zoology)	P1813	short name
+P5093	road number (Estonia)	P1824	road number
+P355	subsidiary	P1830	owner of
+P8485	distribution map of taxon	P1846	distribution map
+P2271	Wikidata property example for properties	P1855	Wikidata property example
+P1533	family name identical to this given name	P1889	different from
+P2743	this zoological name is coordinate with	P1889	different from
+P3364	stereoisomer of	P1889	different from
+P630	Paris city digital code	P1945	street key
+P1854	Kyiv street code	P1945	street key
+P4533	Czech street ID	P1945	street key
+P5093	road number (Estonia)	P1945	street key
+P5207	BAG public space ID	P1945	street key
+P5946	SUCA code	P1945	street key
+P8447	Unique Street Reference Number	P1945	street key
+P8710	Dresden Street ID	P1945	street key
+P9221	Danmarks Adresseregister named street ID	P1945	street key
+P10198	Austrian Street ID	P1945	street key
+P2048	height	P2043	length
+P2049	width	P2043	length
+P2073	vehicle range	P2043	length
+P2120	radius	P2043	length
+P2148	distance from river mouth	P2043	length
+P2233	semi-major axis of an orbit	P2043	length
+P2583	distance from Earth	P2043	length
+P2610	thickness	P2043	length
+P3157	event distance	P2043	length
+P4511	vertical depth	P2043	length
+P5524	horizontal depth	P2043	length
+P2254	maximum operating altitude	P2044	elevation above sea level
+P2923	focal height	P2044	elevation above sea level
+P2053	watershed area	P2046	area
+P2112	wing area	P2046	area
+P2097	term length of office	P2047	duration
+P2114	half-life	P2047	duration
+P2146	orbital period	P2047	duration
+P2147	rotation period	P2047	duration
+P2250	life expectancy	P2047	duration
+P2645	mean lifetime	P2047	duration
+P2781	race time	P2047	duration
+P2873	time in space	P2047	duration
+P3020	residence time of water	P2047	duration
+P3063	gestation period	P2047	duration
+P2660	topographic prominence	P2048	height
+P2217	cruise speed	P2052	speed
+P5070	French standard size for oil paintings	P2061	aspect ratio (W:H)
+P4519	payload mass	P2067	mass
+P3251	minimum viable temperature	P2076	temperature
+P3252	maximum viable temperature	P2076	temperature
+P3253	optimum viable temperature	P2076	temperature
+P6591	maximum temperature record	P2076	temperature
+P7422	minimum temperature record	P2076	temperature
+P1725	beats per minute	P2144	frequency
+P2149	clock speed	P2144	frequency
+P2150	FSB speed	P2144	frequency
+P2142	box office	P2232	cash
+P8628	engine displacement	P2234	volume as quantity
+P1628	equivalent property	P2235	external superproperty
+P1628	equivalent property	P2236	external subproperty
+P2896	publication interval	P2257	event interval
+P121	item operated	P2283	uses
+P186	made from material	P2283	uses
+P408	software engine	P2283	uses
+P618	source of energy	P2283	uses
+P1547	depends on software	P2283	uses
+P2079	fabrication method	P2283	uses
+P2563	superhuman feature or ability	P2283	uses
+P3176	uses property	P2283	uses
+P4151	game mechanics	P2283	uses
+P2555	fee	P2284	price
+P1916	gene substitution association with	P2293	genetic association
+P432	callsign of airline	P2317	call sign
+P2417	stage classification	P2321	general classification of race participants
+P4320	mountains classification	P2321	general classification of race participants
+P4321	best combative classification	P2321	general classification of race participants
+P4322	best sprinter classification	P2321	general classification of race participants
+P4323	young rider classification	P2321	general classification of race participants
+P4324	combination classification	P2321	general classification of race participants
+P687	BHL page ID	P2322	article ID
+P818	arXiv ID	P2322	article ID
+P893	SSRN article ID	P2322	article ID
+P3951	BioRxiv ID	P2322	article ID
+P6769	CJFD journal article ID	P2322	article ID
+P9801	PsycNET ID	P2322	article ID
+P1455	list of works	P2354	has list
+P1456	list of monuments	P2354	has list
+P1753	list related to category	P2354	has list
+P1811	list of episodes	P2354	has list
+P1881	list of characters	P2354	has list
+P1721	pinyin transliteration	P2440	transliteration
+P1814	name in kana	P2440	transliteration
+P1942	McCune-Reischauer romanization	P2440	transliteration
+P2001	Revised Romanization	P2440	transliteration
+P2125	Revised Hepburn romanization	P2440	transliteration
+P2126	Georgian national system of romanization	P2440	transliteration
+P2183	ISO 9:1995	P2440	transliteration
+P2719	Hungarian-style transcription	P2440	transliteration
+P4187	Wylie transliteration	P2440	transliteration
+P4189	THL Simplified Phonetic Transcription	P2440	transliteration
+P5139	Möllendorff transliteration	P2440	transliteration
+P7581	IAST transliteration	P2440	transliteration
+P9373	Ukrainian national romanization	P2440	transliteration
+P9453	ALA-LC romanization for Ukrainian	P2440	transliteration
+P2370	conversion to SI unit	P2442	conversion to standard unit
+P1001	applies to jurisdiction	P2541	operating area
+P6607	constraint clarification	P2559	Wikidata usage instructions
+P6824	replacement property	P2559	Wikidata usage instructions
+P561	NATO reporting name	P2561	name
+P734	family name	P2561	name
+P735	given name	P2561	name
+P742	pseudonym	P2561	name
+P1448	official name	P2561	name
+P1449	nickname	P2561	name
+P1476	title	P2561	name
+P1477	birth name	P2561	name
+P1559	name in native language	P2561	name
+P1705	native label	P2561	name
+P1782	courtesy name	P2561	name
+P1813	short name	P2561	name
+P1814	name in kana	P2561	name
+P1843	taxon common name	P2561	name
+P2358	Roman praenomen	P2561	name
+P2562	married name	P2561	name
+P4633	name of the character role	P2561	name
+P8500	Vietnamese middle name	P2561	name
+P8927	kunya	P2561	name
+P2184	history of topic	P2579	studied by
+P8744	economy of topic	P2579	studied by
+P1104	number of pages	P2635	number of parts of this work
+P1113	number of episodes	P2635	number of parts of this work
+P2437	number of seasons	P2635	number of parts of this work
+P360	is a list of	P2670	has part or parts of the class
+P912	has facility	P2670	has part or parts of the class
+P1990	species kept	P2670	has part or parts of the class
+P4000	has fruit type	P2670	has part or parts of the class
+P8570	front and back matter	P2670	has part or parts of the class
+P9192	sensors	P2670	has part or parts of the class
+P8794	BBFC reference	P2676	rating certificate ID
+P854	reference URL	P2699	URL
+P856	official website	P2699	URL
+P953	full work available at URL	P2699	URL
+P968	email address	P2699	URL
+P973	described at URL	P2699	URL
+P1019	web feed URL	P2699	URL
+P1065	archive URL	P2699	URL
+P1324	source code repository	P2699	URL
+P1581	official blog	P2699	URL
+P1613	IRC channel	P2699	URL
+P1628	equivalent property	P2699	URL
+P1709	equivalent class	P2699	URL
+P3254	property proposal discussion	P2699	URL
+P4238	webcam page URL	P2699	URL
+P5305	SPARQL endpoint	P2699	URL
+P6269	API endpoint	P2699	URL
+P6378	charter URL	P2699	URL
+P6818	calendar feed URL	P2699	URL
+P7014	terms of service URL	P2699	URL
+P7101	privacy policy URL	P2699	URL
+P7569	Wikimedia page-version URL	P2699	URL
+P8009	IM channel	P2699	URL
+P9361	external georeferencing URL	P2699	URL
+P9601	official map URL	P2699	URL
+P9732	URL for citizen's initiatives	P2699	URL
+P9748	Wikimedia Incubator URL	P2699	URL
+P10214	URL for freedom of information requests	P2699	URL
+P10286	podcast logo URL	P2699	URL
+P2738	disjoint union of	P2737	union of
+P3261	anatomical branch of	P2789	connects with
+P3262	has anatomical branch	P2789	connects with
+P3490	muscle origin	P2789	connects with
+P3491	muscle insertion	P2789	connects with
+P426	aircraft registration	P2802	fleet or registration number
+P458	IMO ship number	P2802	fleet or registration number
+P169	chief executive officer	P2828	corporate officer
+P6166	quotes work	P2860	cites work
+P2997	age of majority	P2899	minimum age
+P2998	age of candidacy	P2899	minimum age
+P2999	age of consent	P2899	minimum age
+P3000	marriageable age	P2899	minimum age
+P3001	retirement age	P2899	minimum age
+P3270	compulsory education (minimum age)	P2899	minimum age
+P154	logo image	P2910	icon
+P367	astronomic symbol image	P2910	icon
+P1543	monogram	P2910	icon
+P7407	name (image)	P2910	icon
+P7415	code (image)	P2910	icon
+P1041	socket supported	P2935	connector
+P37	official language	P2936	language used
+P6711	data transfer speed	P2957	throughput
+P10176	type host	P2975	host
+P58	screenwriter	P3092	film crew member
+P344	director of photography	P3092	film crew member
+P725	voice actor	P3092	film crew member
+P1040	film editor	P3092	film crew member
+P2554	production designer	P3092	film crew member
+P3275	storyboard artist	P3092	film crew member
+P6942	animator	P3092	film crew member
+P2554	production designer	P3174	art director
+P4213	Unicode code point	P3295	code
+P5024	choral conductor	P3300	musical conductor
+P26	spouse	P3342	significant person
+P40	child	P3342	significant person
+P57	director	P3342	significant person
+P157	killed by	P3342	significant person
+P161	cast member	P3342	significant person
+P371	presenter	P3342	significant person
+P451	unmarried partner	P3342	significant person
+P488	chairperson	P3342	significant person
+P710	participant	P3342	significant person
+P802	student	P3342	significant person
+P1038	relative	P3342	significant person
+P1066	student of	P3342	significant person
+P1327	partner in business or sport	P3342	significant person
+P1640	curator	P3342	significant person
+P1656	unveiled by	P3342	significant person
+P1774	workshop of	P3342	significant person
+P1775	follower of	P3342	significant person
+P1776	circle of	P3342	significant person
+P1777	manner of	P3342	significant person
+P1778	forgery after	P3342	significant person
+P1877	after a work by	P3342	significant person
+P1891	signatory	P3342	significant person
+P2515	costume designer	P3342	significant person
+P2546	sidekick of	P3342	significant person
+P3092	film crew member	P3342	significant person
+P3205	patient of	P3342	significant person
+P3300	musical conductor	P3342	significant person
+P3764	pole position	P3342	significant person
+P3975	secretary general	P3342	significant person
+P4345	director of archaeological fieldwork	P3342	significant person
+P4608	scenographer	P3342	significant person
+P4805	make-up artist	P3342	significant person
+P5053	fastest lap	P3342	significant person
+P6338	colorist	P3342	significant person
+P7047	enemy of	P3342	significant person
+P8670	character designer	P3342	significant person
+P5852	item inherits value from	P3452	inferred from
+P2839	gait	P3512	means of locomotion
+P3432	parent cell line	P3578	autologous cell line
+P533	target	P3712	objective of project or action
+P2500	league level below	P3729	next lower rank
+P171	parent taxon	P3730	next higher rank
+P2499	league level above	P3730	next higher rank
+P3772	agonist of	P3771	activator of
+P3773	antagonist of	P3776	inhibitor of
+P548	version type	P3831	object has role
+P1039	kinship to subject	P3831	object has role
+P212	ISBN-13	P3962	Global Trade Item Number
+P5032	Filmweb.pl film ID	P3995	Filmweb.pl ID
+P5033	Filmweb.pl person ID	P3995	Filmweb.pl ID
+P6867	Gamepedia wiki ID	P4073	Fandom wiki ID
+P5266	Finnish national bibliography corporate name ID	P4109	URN-NBN
+P8980	KANTO ID	P4109	URN-NBN
+P3271	compulsory education (maximum age)	P4135	maximum age
+P4640	photosphere image	P4291	panoramic view
+P4552	mountain range	P4688	geomorphological unit
+P5572	expressed in	P4774	biological phase
+P8131	dialect of computer language	P4969	derivative work
+P923	medical examinations	P4988	test method
+P7075	mod of	P5059	modified version of
+P5810	cryptocurrency symbol	P5061	unit symbol
+P2202	lower flammable limit	P5447	lower limit
+P2203	upper flammable limit	P5448	upper limit
+P5105	Deutsche Bahn station category	P5606	station class
+P5330	United Kingdom Department for Transport railway station category	P5606	station class
+P6623	Gamepedia article ID	P6262	Fandom article ID
+P5305	SPARQL endpoint	P6269	API endpoint
+P2177	solubility	P6274	concentration
+P2710	minimal lethal concentration	P6274	concentration
+P6686	musical motif	P6670	musical quotation or excerpt
+P1683	quotation	P7081	quotation or excerpt
+P7150	epigraph (literature)	P7081	quotation or excerpt
+P1464	category for people born here	P7084	related category
+P1465	category for people who died here	P7084	related category
+P1791	category of people buried here	P7084	related category
+P1792	category of associated people	P7084	related category
+P10280	category for honorary citizens of entity	P7084	related category
+P159	headquarters location	P7153	significant place
+P189	location of discovery	P7153	significant place
+P291	place of publication	P7153	significant place
+P485	archives at	P7153	significant place
+P495	country of origin	P7153	significant place
+P504	home port	P7153	significant place
+P840	narrative location	P7153	significant place
+P931	place served by transport hub	P7153	significant place
+P937	work location	P7153	significant place
+P1001	applies to jurisdiction	P7153	significant place
+P1071	location of creation	P7153	significant place
+P1158	location of landing	P7153	significant place
+P2842	place of marriage	P7153	significant place
+P4647	location of first performance	P7153	significant place
+P5248	medical evacuation to	P7153	significant place
+P8411	set in environment	P7153	significant place
+P8546	recording location	P7153	significant place
+P9600	oral history at	P7153	significant place
+P184	doctoral advisor	P7604	supervised by
+P144	based on	P8371	references work, tradition or theory
+P941	inspired by	P8371	references work, tradition or theory
+P1625	has melody	P8371	references work, tradition or theory
+P2675	reply to	P8371	references work, tradition or theory
+P2860	cites work	P8371	references work, tradition or theory
+P5707	samples from work	P8371	references work, tradition or theory
+P6439	has lyrics	P8371	references work, tradition or theory
+P4291	panoramic view	P8517	view
+P483	recorded at studio or venue	P8546	recording location
+P915	filming location	P8546	recording location
+P22	father	P8810	parent (unspecified)
+P25	mother	P8810	parent (unspecified)
+P8646	expansion of	P9234	supplement to
+P9899	music created for	P9883	created for
+P7457	creator's signature	P9906	inscription image

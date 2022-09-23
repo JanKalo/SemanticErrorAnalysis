@@ -1,0 +1,168 @@
+p1	p1Label	p2	p2Label
+P40	child	P22	father
+P40	child	P25	mother
+P26	spouse	P26	spouse
+P1376	capital of	P36	capital
+P1308	officeholder	P39	position held
+P22	father	P40	child
+P25	mother	P40	child
+P8810	parent (unspecified)	P40	child
+P8058	symbol of	P41	flag image
+P8058	symbol of	P94	coat of arms image
+P137	operator	P121	item operated
+P1830	owner of	P127	owned by
+P150	contains administrative territorial entity	P131	located in the administrative territorial entity
+P121	item operated	P137	operator
+P4969	derivative work	P144	based on
+P8058	symbol of	P154	logo image
+P156	followed by	P155	follows
+P155	follows	P156	followed by
+P8058	symbol of	P158	seal image
+P1398	structure replaces	P167	structure replaced by
+P453	character role	P175	performer
+P1056	product or material produced	P176	manufacturer
+P1299	depicted by	P180	depicts
+P185	doctoral student	P184	doctoral advisor
+P184	doctoral advisor	P185	doctoral student
+P6087	coach of sports team	P286	head coach
+P910	topic's main category	P301	category's main topic
+P749	parent organization	P355	subsidiary
+P2354	has list	P360	is a list of
+P527	has part	P361	part of
+P398	child astronomical body	P397	parent astronomical body
+P397	parent astronomical body	P398	child astronomical body
+P3095	practiced by	P425	field of this occupation
+P451	unmarried partner	P451	unmarried partner
+P175	performer	P453	character role
+P461	opposite of	P461	opposite of
+P361	part of	P527	has part
+P568	overlies	P567	underlies
+P567	underlies	P568	overlies
+P747	has edition or translation	P629	edition or translation of
+P1441	present in work	P674	characters
+P702	encoded by	P688	encodes
+P688	encodes	P702	encoded by
+P1344	participant in	P710	participant
+P3602	candidacy in election	P726	candidate
+P629	edition or translation of	P747	has edition or translation
+P355	subsidiary	P749	parent organization
+P3919	contributed to creative work	P767	contributor to the creative work or subject
+P3082	destroyed	P770	cause of destruction
+P1066	student of	P802	student
+P1542	has effect	P828	has cause
+P201	lake outflow	P885	origin of the watercourse
+P301	category's main topic	P910	topic's main category
+P926	postsynaptic connection	P925	presynaptic connection
+P925	presynaptic connection	P926	postsynaptic connection
+P450	astronaut mission	P1029	crew member(s)
+P5096	member of the crew of	P1029	crew member(s)
+P176	manufacturer	P1056	product or material produced
+P802	student	P1066	student of
+P1204	Wikimedia portal's main topic	P1151	topic's main Wikimedia portal
+P1151	topic's main Wikimedia portal	P1204	Wikimedia portal's main topic
+P1875	represented by	P1268	represents
+P180	depicts	P1299	depicted by
+P39	position held	P1308	officeholder
+P710	participant	P1344	participant in
+P2522	victory	P1346	winner
+P1366	replaced by	P1365	replaces
+P1365	replaces	P1366	replaced by
+P36	capital	P1376	capital of
+P167	structure replaced by	P1398	structure replaces
+P2453	nominee	P1411	nominated for
+P1424	topic's main template	P1423	template has topic
+P1423	template has topic	P1424	topic's main template
+P1445	fictional universe described in	P1434	takes place in fictional universe
+P674	characters	P1441	present in work
+P1434	takes place in fictional universe	P1445	fictional universe described in
+P1536	immediate cause of	P1478	has immediate cause
+P1537	contributing factor of	P1479	has contributing factor
+P2283	uses	P1535	used by
+P1478	has immediate cause	P1536	immediate cause of
+P1479	has contributing factor	P1537	contributing factor of
+P828	has cause	P1542	has effect
+P1672	this taxon is source of	P1582	natural product of taxon
+P1620	plaintiff	P1591	defendant
+P1606	natural reservoir of	P1605	has natural reservoir
+P1605	has natural reservoir	P1606	natural reservoir of
+P1687	Wikidata property	P1629	Wikidata item of this property
+P1643	departure transaction	P1642	acquisition transaction
+P1642	acquisition transaction	P1643	departure transaction
+P1677	index case of	P1660	has index case
+P1582	natural product of taxon	P1672	this taxon is source of
+P1660	has index case	P1677	index case of
+P1629	Wikidata item of this property	P1687	Wikidata property
+P1704	is pollinator of	P1703	is pollinated by
+P1703	is pollinated by	P1704	is pollinator of
+P1754	category related to list	P1753	list related to category
+P1753	list related to category	P1754	category related to list
+P127	owned by	P1830	owner of
+P1268	represents	P1875	represented by
+P2176	drug or therapy used for treatment	P2175	medical condition treated
+P2175	medical condition treated	P2176	drug or therapy used for treatment
+P2203	upper flammable limit	P2202	lower flammable limit
+P2202	lower flammable limit	P2203	upper flammable limit
+P1535	used by	P2283	uses
+P2289	venous drainage	P2286	arterial supply
+P2286	arterial supply	P2289	venous drainage
+P360	is a list of	P2354	has list
+P2389	organization directed by the office or position	P2388	office held by head of the organization
+P2388	office held by head of the organization	P2389	organization directed by the office or position
+P1411	nominated for	P2453	nominee
+P2500	league level below	P2499	league level above
+P2499	league level above	P2500	league level below
+P2502	classification of race	P2501	results
+P2501	results	P2502	classification of race
+P3148	repeals	P2568	repealed by
+P2579	studied by	P2578	studies
+P2578	studies	P2579	studied by
+P2674	next crossing downstream	P2673	next crossing upstream
+P2673	next crossing upstream	P2674	next crossing downstream
+P2682	is verso of	P2681	is recto of
+P2681	is recto of	P2682	is verso of
+P2822	by-product of	P2821	by-product
+P2821	by-product	P2822	by-product of
+P566	basionym	P2868	subject has role
+P1403	original combination	P2868	subject has role
+P1420	taxon synonym	P2868	subject has role
+P417	patron saint	P2925	domain of saint or deity
+P6803	taxon found at location	P2974	habitat
+P770	cause of destruction	P3082	destroyed
+P425	field of this occupation	P3095	practiced by
+P2568	repealed by	P3148	repeals
+P3190	innervates	P3189	innervated by
+P3189	innervated by	P3190	innervates
+P3262	has anatomical branch	P3261	anatomical branch of
+P3261	anatomical branch of	P3262	has anatomical branch
+P3373	sibling	P3373	sibling
+P726	candidate	P3602	candidacy in election
+P3730	next higher rank	P3729	next lower rank
+P3729	next lower rank	P3730	next higher rank
+P3781	has active ingredient	P3780	active ingredient in
+P3780	active ingredient in	P3781	has active ingredient
+P7376	worn by	P3828	wears
+P767	contributor to the creative work or subject	P3919	contributed to creative work
+P9926	template populates category	P4329	template or module that populates category
+P4600	polymer of	P4599	monomer of
+P4599	monomer of	P4600	polymer of
+P598	commander of (DEPRECATED)	P4791	commanded by
+P144	based on	P4969	derivative work
+P1029	crew member(s)	P5096	member of the crew of
+P5132	suggests the existence of	P5131	possible medical findings
+P5131	possible medical findings	P5132	suggests the existence of
+P5134	evaluation of	P5133	has evaluation
+P5133	has evaluation	P5134	evaluation of
+P5136	less than	P5135	greater than
+P5135	greater than	P5136	less than
+P1027	conferred by	P5460	grants
+P286	head coach	P6087	coach of sports team
+P2974	habitat	P6803	taxon found at location
+P8517	view	P7108	location of the point of view
+P3828	wears	P7376	worn by
+P7904	gave up territory to	P7903	gained territory from
+P7903	gained territory from	P7904	gave up territory to
+P8032	victim	P8031	perpetrator
+P8031	perpetrator	P8032	victim
+P40	child	P8810	parent (unspecified)
+P8865	mathematical inverse	P8865	mathematical inverse
+P4329	template or module that populates category	P9926	template populates category

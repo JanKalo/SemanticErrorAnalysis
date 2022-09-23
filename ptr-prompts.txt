@@ -1,0 +1,81 @@
+0	NA	all	not	related	to	all
+0	place served by transport hub	place	is	served	by	hub
+0	mountain range	mountain	is	part	of	range
+0	religion	object	has	the	religion	religion
+0	participating team	cup	had	the	participant	team
+0	contains administrative territorial entity	country	does	contain	the	city
+0	head of government	country	's	president	is	person
+0	country of citizenship	person	is	citizen	of	country
+0	original network	work	first	shown	by	broadcaster
+0	heritage designation	heritage	is	belonging	to	site
+0	performer	character	is	played	by	person
+0	participant of	person	has	participated	in	event
+0	position held	person	has	the	position	position
+0	has part	object	is	consisting	of	object
+0	location of formation	group	is	originating	from	location
+0	located on terrain feature	place	is	located	in	location
+0	architect	building	is	designed	by	person
+0	country of origin	person	was	born	in	country
+0	publisher	work	was	published	by	person
+0	director	movie	was	directed	by	person
+0	father	person	is	father	of	person
+0	developer	product	was	developed	by	person
+0	military branch	object	does	belong	to	branch
+0	mouth of the watercourse	river	is	flowing	into	water
+0	nominated for	person	was	nominated	for	award
+0	movement	artist	does	belong	to	movement
+0	successful candidate	person	was	elected	in	election
+0	followed by	event	is	followed	by	event
+0	manufacturer	product	is	manufactured	by	company
+0	instance of	object	instance	of	a	class
+0	after a work by	work	after	work	by	person
+0	member of political party	person	is	member	of	party
+0	licensed to broadcast to	station	is	casting	to	location
+0	headquarters location	organization	is	based	in	location
+0	sibling	person	is	sibling	of	person
+0	instrument	person	is	playing	the	instrument
+0	country	object	is	located	in	country
+0	occupation	person	's	job	is	occupation
+0	residence	person	's	residence	in	location
+0	work location	person	's	job	in	location
+0	subsidiary	company	parent	company	of	company
+0	participant	event	's	participant	is	person
+0	operator	organization	is	managed	by	organization
+0	characters	work	has	the	character	person
+0	occupant	object	is	occupying	the	property
+0	genre	work	has	the	genre	genre
+0	operating system	software	is	working	on	system
+0	owned by	object	is	owned	by	person
+0	platform	software	is	running	on	hardware
+0	tributary	river	is	flowing	into	river
+0	winner	person	is	winner	of	competition
+0	said to be the same as	object	is	same	as	object
+0	composer	work	is	composed	by	person
+0	league	person	is	playing	in	league
+0	record label	group	is	represented	by	label
+0	distributor	work	is	distributed	by	company
+0	screenwriter	work	is	written	by	person
+0	sports season of league or competition	season	is	season	in	league
+0	taxon rank	species	has	the	rank	rank
+0	location	object	is	located	at	location
+0	field of work	person	is	working	in	field
+0	language of work or name	work	is	written	in	language
+0	applies to jurisdiction	item	does	belong	to	area
+0	notable work	person	is	famous	for	work
+0	located in the administrative territorial entity	object	is	located	in	territory
+0	crosses	object	is	crossing	the	obstacle
+0	original language of film or TV show	movie	has	original	language	language
+0	competition class	object	is	competing	in	class
+0	part of	object	is	part	of	object
+0	sport	person	's	sport	is	sport
+0	constellation	object	is	part	of	constellation
+0	position played on team / speciality	person	has	played	on	position
+0	located in or next to body of water	object	is	next	to	water
+0	voice type	person	's	voice	type	voice
+0	follows	object	is	following	the	object
+0	spouse	person	is	spouse	of	person
+0	military rank	person	has	military	rank	position
+0	mother	person	is	mother	of	person
+0	member of	person	is	member	of	organization
+0	child	person	is	child	of	person
+0	main subject	work	has	main	subject	topic
